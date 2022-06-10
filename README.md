@@ -1,4 +1,4 @@
-# bikesharing
+# Bikesharing
 
 Click here to view the [NYC Citi Bike Analysis Story on Tableau](https://public.tableau.com/app/profile/joshua.carter8024/viz/NYCCitiBikeAnalysisStory_16548191904040/NYCCitiBikeAnalysis?publish=yes).
 
